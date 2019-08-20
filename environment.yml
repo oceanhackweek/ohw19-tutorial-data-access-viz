@@ -9,6 +9,8 @@ dependencies:
   - boto3
   - cartopy
   - cc-plugin-ncei
+  - ciso
+  - cmocean
   - colorcet
   - compliance-checker
   - datashader
