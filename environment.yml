@@ -1,0 +1,45 @@
+name: OHW19
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - basemap
+  - bokeh
+  - boto3
+  - cartopy
+  - cc-plugin-ncei
+  - colorcet
+  - compliance-checker
+  - datashader
+  - descartes
+  - erddapy
+  - folium
+  - geolinks
+  - geopandas
+  - geoviews
+  - gridgeo
+  - holoviews
+  - hvplot
+  - ioos-tools
+  - ipyleaflet
+  - jupyter
+  - matplotlib
+  - netcdf4
+  - numpy
+  - owslib
+  - palettable
+  - pandas
+  - panel
+  - param
+  - pocean-core
+  - rasterio
+  - requests
+  - retrying
+  - rise
+  - shapely
+  - sympy
+  - unyt
+  - utide
+  - xarray
+  - xlrd
