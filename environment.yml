@@ -35,6 +35,7 @@ dependencies:
   - panel
   - param
   - pocean-core
+  - podaacpy
   - rasterio
   - requests
   - retrying
