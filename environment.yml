@@ -36,6 +36,7 @@ dependencies:
   - param
   - pocean-core
   - podaacpy
+  - pyoos
   - rasterio
   - requests
   - retrying
