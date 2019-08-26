@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.7
+  - altair
   - basemap
   - bokeh
   - boto3
@@ -41,9 +42,11 @@ dependencies:
   - requests
   - retrying
   - rise
+  - seaborn
   - shapely
   - sympy
   - unyt
   - utide
+  - vega_datasets
   - xarray
   - xlrd
